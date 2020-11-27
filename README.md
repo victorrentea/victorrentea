@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Interested in a company or personal training? Check out my website for the detailed agenda, enrollment options and free goodies:
+
+[victorrentea.ro](http://victorrentea.ro)
+
 <!--
 **victorrentea/victorrentea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
