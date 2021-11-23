@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You've reached my treasure mine. This is where I keep most of my daily training activity. If you look at my latest commits (and you are bright), you can see how the code in various topics evolves.
+
 Interested in a company or personal training? Check out my website for the detailed agenda, enrollment options and free goodies:
 
 [victorrentea.ro](http://victorrentea.ro)
