@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 You've reached my treasure.
-This is where I keep most of my training activity.
-If you scan my latest commits, you can see how the code in various topics evolves.
+This is where I keep the code of most of my training activity.
 
-Interested in a company or personal training? Check out my website for the detailed agenda, enrollment options and free goodies:
+If you are interested in a company or personal training check out my website for the detailed agenda, enrollment options and free goodies:
 
 [victorrentea.ro](http://victorrentea.ro)
 
